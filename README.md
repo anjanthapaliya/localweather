@@ -1,2 +1,2 @@
 # localweather
-<a href="https://anjanthapaliya.github.io/localweather" target="_tab">Local Weather</a>
+<a href="https://anjanthapaliya.github.io/localweather" target="_blank">Local Weather</a>
